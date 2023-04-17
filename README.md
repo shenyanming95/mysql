@@ -75,5 +75,5 @@ innodb_file_per_table = 1
 
 - 主机：127.0.0.1
 - 端口：3306
-- 用户名：roor
+- 用户名：root
 - 密码：
